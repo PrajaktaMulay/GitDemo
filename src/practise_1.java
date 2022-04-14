@@ -11,6 +11,8 @@ import org.openqa.selenium.By;
 				driver.get("https://www.rahulshettyacademy.com/AutomationPractice");
 				System.out.print(driver.findElements(By.tagName("a")).size());
 				
+				driver.manage().window().maximize();
+				
 				
 			}
 		}
