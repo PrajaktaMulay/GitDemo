@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 PRAJ M
+=======
+Hi Welcome
+>>>>>>> 30b00b9 (Added new.txt)
+
+
+
+Helllooooo
+
